@@ -32,7 +32,6 @@
 ![Luciano Griffa's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucianoGriffa&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucianoGriffa&theme=transparent&exclude=html)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucianoGriffa&theme=transparent&utcOffset=3)
-<!--
 ![LucianoGriffa's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucianoGriffa&show_icons=true&theme=blue_green)
 ![GitHub Views](https://komarev.com/ghpvc/?username=LucianoGriffa&style=for-the-badge)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LucianoGriffa&theme=blue_green&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)4
