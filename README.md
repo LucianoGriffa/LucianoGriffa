@@ -31,7 +31,6 @@
 ## 📊 Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucianoGriffa&theme=transparent&exclude=html)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucianoGriffa&theme=transparent&utcOffset=3)
-<!--
 ![Luciano Griffa's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucianoGriffa&theme=transparent)
 
 ![LucianoGriffa's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucianoGriffa&show_icons=true&theme=blue_green)
