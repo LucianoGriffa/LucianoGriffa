@@ -1,8 +1,9 @@
 <!--![head](https://uploads.jovemnerd.com.br/wp-content/uploads/2017/08/mr-robot.png)
 -->
 # Hey 👋, I'm Luciano Griffa
-[![LinkedIn](https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianogriffa/)
-[![Blog](https://img.shields.io/badge/blog-orange.svg?&style=for-the-badge&logo=blogger&logoColor=white)](https://lucianogriffa.github.io/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-black.svg?&style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/lucianogriffa/)
+[![Blog](https://img.shields.io/badge/medium_blog-black.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lucianogriffa)
+[![HTB](https://img.shields.io/badge/htb-black.svg?&style=for-the-badge&logo=hackthebox&logoColor=green)](https://app.hackthebox.com/profile/1525469)
 ## 😀 Talking about Personal Stuffs:
 - **💻 I'm Full Stack.**
 - **🤔 My interests in technology are web and cybersecurity.**
