@@ -1,19 +1,12 @@
-<!--![head](https://uploads.jovemnerd.com.br/wp-content/uploads/2017/08/mr-robot.png)
--->
+
+![Mr.Robot](https://github.com/LucianoGriffa/LucianoGriffa/assets/73656863/8b466f08-b842-4b6b-af91-79a86f3d29a6)
+
 # Hey 👋, I'm Luciano Griffa
 [![LinkedIn](https://img.shields.io/badge/linkedin-black.svg?&style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/lucianogriffa/)
 [![Blog](https://img.shields.io/badge/medium_blog-black.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lucianogriffa)
 [![HTB](https://img.shields.io/badge/htb-black.svg?&style=for-the-badge&logo=hackthebox&logoColor=green)](https://app.hackthebox.com/profile/1525469)
-## 😀 Talking about Personal Stuffs:
-- **💻 I'm Full Stack.**
-- **🤔 My interests in technology are web and cybersecurity.**
-- **🎸 My hobbies are sports and listening to music.**
+
 ## 🔥 Programming Languages and Tools:
-<!--![Expo](https://img.shields.io/badge/expo-black.svg?&style=for-the-badge&logo=expo&logoColor=white)
-![HTML](https://img.shields.io/badge/html-black.svg?&style=for-the-badge&logo=html5&logoColor=orange)
-![CSS](https://img.shields.io/badge/css-black.svg?&style=for-the-badge&logo=css3&logoColor=blue)
-![SASS](https://img.shields.io/badge/sass-black.svg?&style=for-the-badge&logo=sass&logoColor=pink)
-![Tailwind CSS](https://img.shields.io/badge/tailwind-black.svg?&style=for-the-badge&logo=tailwindcss&logoColor=blue)-->
 ![Windows](https://img.shields.io/badge/windows-black.svg?&style=for-the-badge&logo=windows&logoColor=blue)
 ![Linux](https://img.shields.io/badge/Linux-black.svg?&style=for-the-badge&logo=Linux)
 ![Debian](https://img.shields.io/badge/Debian-black.svg?&style=for-the-badge&logo=debian&logoColor=red)
@@ -28,7 +21,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-black.svg?&style=for-the-badge&logo=firebase&logoColor=yellow)
 ![Python](https://img.shields.io/badge/python-black.svg?&style=for-the-badge&logo=python&logoColor=python)
 ![GNUBash](https://img.shields.io/badge/gnubash-black.svg?&style=for-the-badge&logo=gnubash&logoColor=white)
-<!-- ## 🎓 Programming Languages Learning:-->
+
 ## 📊 Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucianoGriffa&theme=transparent&utcOffset=3)
 
@@ -39,3 +32,19 @@
 ![LucianoGriffa's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucianoGriffa&show_icons=true&theme=blue_green)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LucianoGriffa&theme=blue_green&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)4
 -->
+
+<!--
+![Expo](https://img.shields.io/badge/expo-black.svg?&style=for-the-badge&logo=expo&logoColor=white)
+![HTML](https://img.shields.io/badge/html-black.svg?&style=for-the-badge&logo=html5&logoColor=orange)
+![CSS](https://img.shields.io/badge/css-black.svg?&style=for-the-badge&logo=css3&logoColor=blue)
+![SASS](https://img.shields.io/badge/sass-black.svg?&style=for-the-badge&logo=sass&logoColor=pink)
+![Tailwind CSS](https://img.shields.io/badge/tailwind-black.svg?&style=for-the-badge&logo=tailwindcss&logoColor=blue)
+-->
+
+<!--
+## 😀 Talking about Personal Stuffs:
+- **🤔 My interests in technology are cybersecurity and backend development.**
+- **🎸 My hobbies are sports and listening to music.**
+-->
+
+<!-- ## 🎓 Programming Languages Learning:-->
