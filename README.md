@@ -2,8 +2,8 @@
 ![Mr.Robot](https://github.com/LucianoGriffa/LucianoGriffa/assets/73656863/8b466f08-b842-4b6b-af91-79a86f3d29a6)
 -->
 # Hey 👋, I'm Luciano Griffa
-[![LinkedIn](https://img.shields.io/badge/linkedin-black.svg?&style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/lucianogriffa/)
 <!--
+[![LinkedIn](https://img.shields.io/badge/linkedin-black.svg?&style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/lucianogriffa/)
 [![Blog](https://img.shields.io/badge/medium_blog-black.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lucianogriffa)
 [![HTB](https://img.shields.io/badge/htb-black.svg?&style=for-the-badge&logo=hackthebox&logoColor=green)](https://app.hackthebox.com/profile/1525469)
 -->
