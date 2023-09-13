@@ -1,15 +1,13 @@
-
+<!--
 ![Mr.Robot](https://github.com/LucianoGriffa/LucianoGriffa/assets/73656863/8b466f08-b842-4b6b-af91-79a86f3d29a6)
-
+-->
 # Hey 👋, I'm Luciano Griffa
 [![LinkedIn](https://img.shields.io/badge/linkedin-black.svg?&style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/lucianogriffa/)
+<!--
 [![Blog](https://img.shields.io/badge/medium_blog-black.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lucianogriffa)
 [![HTB](https://img.shields.io/badge/htb-black.svg?&style=for-the-badge&logo=hackthebox&logoColor=green)](https://app.hackthebox.com/profile/1525469)
-
+-->
 ## 🔥 Programming Languages and Tools:
-![Windows](https://img.shields.io/badge/windows-black.svg?&style=for-the-badge&logo=windows&logoColor=blue)
-![Linux](https://img.shields.io/badge/Linux-black.svg?&style=for-the-badge&logo=Linux)
-![Debian](https://img.shields.io/badge/Debian-black.svg?&style=for-the-badge&logo=debian&logoColor=red)
 ![VSCode](https://img.shields.io/badge/vscode-black.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 ![GIT](https://img.shields.io/badge/git-black.svg?&style=for-the-badge&logo=git&logoColor=orange)
 ![JavaScript](https://img.shields.io/badge/javascript-black.svg?&style=for-the-badge&logo=javascript&logoColor=yellow)
@@ -19,8 +17,6 @@
 ![ExpressJs](https://img.shields.io/badge/express-black.svg?&style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-black.svg?&style=for-the-badge&logo=mysql&logoColor=blue)
 ![Firebase](https://img.shields.io/badge/firebase-black.svg?&style=for-the-badge&logo=firebase&logoColor=yellow)
-![Python](https://img.shields.io/badge/python-black.svg?&style=for-the-badge&logo=python&logoColor=python)
-![GNUBash](https://img.shields.io/badge/gnubash-black.svg?&style=for-the-badge&logo=gnubash&logoColor=white)
 
 ## 📊 Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucianoGriffa&theme=transparent&utcOffset=3)
@@ -39,6 +35,13 @@
 ![CSS](https://img.shields.io/badge/css-black.svg?&style=for-the-badge&logo=css3&logoColor=blue)
 ![SASS](https://img.shields.io/badge/sass-black.svg?&style=for-the-badge&logo=sass&logoColor=pink)
 ![Tailwind CSS](https://img.shields.io/badge/tailwind-black.svg?&style=for-the-badge&logo=tailwindcss&logoColor=blue)
+
+![Python](https://img.shields.io/badge/python-black.svg?&style=for-the-badge&logo=python&logoColor=python)
+![GNUBash](https://img.shields.io/badge/gnubash-black.svg?&style=for-the-badge&logo=gnubash&logoColor=white)
+
+![Windows](https://img.shields.io/badge/windows-black.svg?&style=for-the-badge&logo=windows&logoColor=blue)
+![Linux](https://img.shields.io/badge/Linux-black.svg?&style=for-the-badge&logo=Linux)
+![Debian](https://img.shields.io/badge/Debian-black.svg?&style=for-the-badge&logo=debian&logoColor=red)
 -->
 
 <!--
