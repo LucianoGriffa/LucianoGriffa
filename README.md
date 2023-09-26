@@ -21,16 +21,16 @@
 ![Firebase](https://img.shields.io/badge/firebase-black.svg?&style=for-the-badge&logo=firebase&logoColor=yellow)
 
 ## 📊 Stats:
-![](http://github-readme-streak-stats.herokuapp.com?user=LucianoGriffa&theme=onedark&date_format=j%20M%5B%20Y%5D)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucianoGriffa&theme=onedark&utcOffset=3)
 <!--
 ![GitHub Views](https://komarev.com/ghpvc/?username=LucianoGriffa&style=for-the-badge)
+![LucianoGriffa's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucianoGriffa&show_icons=true&theme=onedark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucianoGriffa&theme=transparent&exclude=html)
 ![Luciano Griffa's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucianoGriffa&theme=transparent)
-![LucianoGriffa's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucianoGriffa&show_icons=true&theme=blue_green)
 [(https://git.io/streak-stats)4
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucianoGriffa&theme=transparent&utcOffset=3)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 -->
-
 <!--
 ![Expo](https://img.shields.io/badge/expo-black.svg?&style=for-the-badge&logo=expo&logoColor=white)
 ![HTML](https://img.shields.io/badge/html-black.svg?&style=for-the-badge&logo=html5&logoColor=orange)
