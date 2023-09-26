@@ -1,6 +1,8 @@
 <!--
 ![Mr.Robot](https://github.com/LucianoGriffa/LucianoGriffa/assets/73656863/8b466f08-b842-4b6b-af91-79a86f3d29a6)
 -->
+![carbon](https://github.com/LucianoGriffa/LucianoGriffa/assets/73656863/a9ad8c12-6358-42f4-9cb3-1fc04bc53e09)
+
 # Hey 👋, I'm Luciano Griffa
 <!--
 [![LinkedIn](https://img.shields.io/badge/linkedin-black.svg?&style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/lucianogriffa/)
@@ -19,14 +21,14 @@
 ![Firebase](https://img.shields.io/badge/firebase-black.svg?&style=for-the-badge&logo=firebase&logoColor=yellow)
 
 ## 📊 Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucianoGriffa&theme=transparent&utcOffset=3)
-
+![](http://github-readme-streak-stats.herokuapp.com?user=LucianoGriffa&theme=onedark&date_format=j%20M%5B%20Y%5D)]
 <!--
 ![GitHub Views](https://komarev.com/ghpvc/?username=LucianoGriffa&style=for-the-badge)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucianoGriffa&theme=transparent&exclude=html)
 ![Luciano Griffa's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucianoGriffa&theme=transparent)
 ![LucianoGriffa's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucianoGriffa&show_icons=true&theme=blue_green)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LucianoGriffa&theme=blue_green&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)4
+[(https://git.io/streak-stats)4
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucianoGriffa&theme=transparent&utcOffset=3)
 -->
 
 <!--
