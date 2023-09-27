@@ -1,8 +1,19 @@
 <!--
 ![Mr.Robot](https://github.com/LucianoGriffa/LucianoGriffa/assets/73656863/8b466f08-b842-4b6b-af91-79a86f3d29a6)
--->
 ![carbon](https://github.com/LucianoGriffa/LucianoGriffa/assets/73656863/a9ad8c12-6358-42f4-9cb3-1fc04bc53e09)
-
+-->
+```js
+const saveProfile = (myProfile) => {
+  let profile = [];
+  profile.push(myProfile);
+  return profile;
+};
+let profile = {
+  "name": "Luciano",
+  "lastname": "Griffa"
+};
+console.log(saveProfile(profile));
+```
 # Hey 👋, I'm Luciano Griffa
 <!--
 [![LinkedIn](https://img.shields.io/badge/linkedin-black.svg?&style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/lucianogriffa/)
