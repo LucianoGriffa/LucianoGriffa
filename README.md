@@ -7,8 +7,12 @@
 ```js
 const saveProfile = (myProfile) => {
   let profile = [];
-  profile.push(myProfile);
-  return profile;
+  if(myProfile) {
+    profile.push(myProfile);
+    return profile;
+  } else {
+    return "No hay datos a guardar.";
+  }
 };
 let profile = {
   "name": "Luciano",
