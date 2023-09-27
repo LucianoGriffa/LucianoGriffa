@@ -12,7 +12,7 @@ const saveProfile = (myProfile) => {
 };
 let profile = {
   "name": "Luciano",
-  "lastname": "Griffa"
+  "role": "Full Stack Developer"
 };
 console.log(saveProfile(profile));
 ```
