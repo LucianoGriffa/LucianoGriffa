@@ -26,6 +26,7 @@ console.log(saveProfile(profile));
 [![HTB](https://img.shields.io/badge/htb-black.svg?&style=for-the-badge&logo=hackthebox&logoColor=green)](https://app.hackthebox.com/profile/1525469)
 -->
 ## 🔥 Programming Languages and Tools:
+<!--
 ![VSCode](https://img.shields.io/badge/vscode-black.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 ![GIT](https://img.shields.io/badge/git-black.svg?&style=for-the-badge&logo=git&logoColor=orange)
 ![JavaScript](https://img.shields.io/badge/javascript-black.svg?&style=for-the-badge&logo=javascript&logoColor=yellow)
@@ -35,6 +36,12 @@ console.log(saveProfile(profile));
 ![ExpressJs](https://img.shields.io/badge/express-black.svg?&style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-black.svg?&style=for-the-badge&logo=mysql&logoColor=blue)
 ![Firebase](https://img.shields.io/badge/firebase-black.svg?&style=for-the-badge&logo=firebase&logoColor=yellow)
+-->
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs"/><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,webpack" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git"/>
+</div>
 
 ## 📊 Stats:
 
