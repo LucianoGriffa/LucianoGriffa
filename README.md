@@ -1,8 +1,3 @@
-<!--
-![Mr.Robot](https://github.com/LucianoGriffa/LucianoGriffa/assets/73656863/8b466f08-b842-4b6b-af91-79a86f3d29a6)
-![carbon](https://github.com/LucianoGriffa/LucianoGriffa/assets/73656863/a9ad8c12-6358-42f4-9cb3-1fc04bc53e09)
--->
-
 # Hey 👋, I'm Luciano Griffa
 ```js
 const saveProfile = (myProfile) => {
@@ -20,11 +15,6 @@ let profile = {
 };
 console.log(saveProfile(profile));
 ```
-<!--
-[![LinkedIn](https://img.shields.io/badge/linkedin-black.svg?&style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/lucianogriffa/)
-[![Blog](https://img.shields.io/badge/medium_blog-black.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lucianogriffa)
-[![HTB](https://img.shields.io/badge/htb-black.svg?&style=for-the-badge&logo=hackthebox&logoColor=green)](https://app.hackthebox.com/profile/1525469)
--->
 ## 🔥 Programming Languages and Tools:
 <!--
 ![VSCode](https://img.shields.io/badge/vscode-black.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=blue)
@@ -43,10 +33,9 @@ console.log(saveProfile(profile));
     <img src="https://skillicons.dev/icons?i=vscode,github,git"/>
 </div>
 
-## 📊 Stats:
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucianoGriffa&theme=onedark&utcOffset=3)
 <!--
+## 📊 Stats:
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucianoGriffa&theme=onedark&utcOffset=3)
 ![GitHub Views](https://komarev.com/ghpvc/?username=LucianoGriffa&style=for-the-badge)
 ![LucianoGriffa's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucianoGriffa&show_icons=true&theme=onedark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucianoGriffa&theme=transparent&exclude=html)
@@ -54,6 +43,7 @@ console.log(saveProfile(profile));
 [(https://git.io/streak-stats)4
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 -->
+
 <!--
 ![Expo](https://img.shields.io/badge/expo-black.svg?&style=for-the-badge&logo=expo&logoColor=white)
 ![HTML](https://img.shields.io/badge/html-black.svg?&style=for-the-badge&logo=html5&logoColor=orange)
