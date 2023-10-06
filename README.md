@@ -28,7 +28,7 @@ console.log(saveProfile(profile));
 ![Firebase](https://img.shields.io/badge/firebase-black.svg?&style=for-the-badge&logo=firebase&logoColor=yellow)
 -->
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs"/><br>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,nextjs"/><br>
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,webpack" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,github,git"/>
 </div>
