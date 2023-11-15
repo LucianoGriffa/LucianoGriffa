@@ -18,7 +18,7 @@ console.log(saveProfile(profile));
 ## 🔥 Programming Languages and Tools:
 <div align="left">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,nextjs,vite"/><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,webpack" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,github,git"/>
 </div>
 
