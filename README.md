@@ -11,7 +11,7 @@ const saveProfile = (myProfile) => {
 };
 let profile = {
   "name": "Luciano",
-  "role": "Full Stack Developer"
+  "role": "Backend Developer"
 };
 console.log(saveProfile(profile));
 ```
