@@ -11,8 +11,8 @@ const saveProfile = (newProfile) => {
 };
 const myProfile = {
   name: "Luciano",
-  role: "Full Stack Developer",
-  student: "Software Engineer",
+  role: "💻 Full Stack Developer",
+  student: "📚 Software Engineer",
   enthusiast: ["Technology", "Music"]
 };
 saveProfile(myProfile)
