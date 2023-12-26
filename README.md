@@ -1,4 +1,4 @@
-# Hey 👋, I'm Luciano Griffa
+# Hi 👋, I'm Luciano Griffa
 ```js
 const saveProfile = (newProfile) => {
   const profiles = [];
