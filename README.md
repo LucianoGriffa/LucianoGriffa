@@ -19,6 +19,6 @@ saveProfile(myProfile)
 ```
 ## 🔥 Programming Languages and Tools:
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=js,typescript,react,nodejs,express,mongodb,mysql"/><br/>
+    <img src="https://skillicons.dev/icons?i=python,bash,js,typescript,react,nodejs,express,mongodb,mysql"/><br/>
     <img src="https://skillicons.dev/icons?i=vscode,github,git,postman,vercel"/>
 </div>
