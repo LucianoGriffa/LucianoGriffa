@@ -13,7 +13,7 @@ const myProfile = {
   name: "Luciano",
   role: "💻 Full Stack Developer",
   student: "📚 Software Engineer",
-  enthusiast: ["Technology", "Music"]
+  enthusiast: ["Cybersecurity", "Technology", "Music"]
 };
 saveProfile(myProfile)
 ```
