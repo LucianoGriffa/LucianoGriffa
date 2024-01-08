@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Luciano Griffa
+# 👋 Hi! I'm Luciano Griffa.
 ```js
 const saveProfile = (newProfile) => {
   const profiles = [];
@@ -11,6 +11,7 @@ const saveProfile = (newProfile) => {
 };
 const myProfile = {
   name: "Luciano",
+  aka: "rob1ngh0st",
   role: "💻 Full Stack Developer",
   student: "📚 Software Engineer",
   enthusiast: ["Cybersecurity", "Technology", "Music"]
