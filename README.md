@@ -1,22 +1,22 @@
 # 👋 Hi! I'm Luciano Griffa.
-```js
-const saveProfile = (newProfile) => {
-  const profiles = [];
-  if (newProfile) {
-    profiles.push(newProfile);
-    console.log("Profile saved successfully:", profiles);
-  } else {
-    return "No data to save.";
-  }
-};
-const myProfile = {
-  name: "Luciano",
-  aka: "rob1ngh0st",
-  role: "💻 Full Stack Developer",
-  student: "📚 Software Engineer",
-  enthusiast: ["Cybersecurity", "Technology", "Music"]
-};
-saveProfile(myProfile)
+```python
+def save_profile(new_profile=None):
+    profiles = []
+    if new_profile:
+        profiles.append(new_profile)
+        print("Profile saved successfully:", profiles)
+    else:
+        print("No data to save.")
+
+my_profile = {
+    "name": "Luciano",
+    "aka": "rob1ngh0st",
+    "ctf": "Hack The Box & Try Hack Me",
+    "student": "📚 Software Engineer",
+    "enthusiast": ["Technology", "Cybersecurity", "Music"]
+}
+
+save_profile(my_profile)
 ```
 ## 🔥 Programming Languages and Tools:
 <div align="left">
