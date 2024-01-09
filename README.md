@@ -21,6 +21,6 @@ save_profile(my_profile)
 ```
 ## 🔥 Technologies:
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=python,bash,js,typescript,nodejs,mongodb,mysql"/><br/>
+    <img src="https://skillicons.dev/icons?i=python,bash,js,nodejs,mongodb,mysql"/><br/>
     <img src="https://skillicons.dev/icons?i=vscode,vim,github,git,postman"/>
 </div>
