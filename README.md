@@ -1,5 +1,5 @@
 # 👋 Hi! I'm Luciano Griffa.
-
+![](https://komarev.com/ghpvc/?username=lucianogriffa)
 ```python
 def save_profile(new_profile=None):
     profiles = []
