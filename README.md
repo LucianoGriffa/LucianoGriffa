@@ -12,8 +12,8 @@ def save_profile(new_profile=None):
 my_profile = {
     "name": "Luciano",
     "ctf": "Hack The Box & Try Hack Me",
-    "student": "📚 Software Engineer",
-    "enthusiast": ["Technology", "Cybersecurity"]
+    "student": "📚 Software Engineer & Cybersecurity",
+    "enthusiast": ["Technology", "Cybersecurity", "Music"]
 }
 
 save_profile(my_profile)
