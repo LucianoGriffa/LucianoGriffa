@@ -13,7 +13,7 @@ my_profile = {
     "name": "Luciano",
     "ctf": "Hack The Box & Try Hack Me",
     "student": "📚 Software Engineer",
-    "enthusiast": ["Technology", "Cybersecurity", "Music"]
+    "enthusiast": ["Technology", "Cybersecurity"]
 }
 
 save_profile(my_profile)
