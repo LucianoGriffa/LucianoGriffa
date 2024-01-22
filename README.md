@@ -18,8 +18,7 @@ my_profile = {
 
 save_profile(my_profile)
 ```
-## 🔥 Technologies:
+## 🔥 Languages:
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=python,bash,js,react,nodejs,mongodb,mysql"/><br/>
-    <img src="https://skillicons.dev/icons?i=vscode,vim,github,git,postman"/>
+    <img src="https://skillicons.dev/icons?i=python,bash,js,react,nodejs"/><br/>
 </div>
