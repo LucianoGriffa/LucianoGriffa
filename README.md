@@ -11,13 +11,13 @@ def save_profile(new_profile=None):
 
 my_profile = {
     "name": "Luciano",
-    "ctf": "Hack The Box & Try Hack Me",
     "student": "📚 Software Engineer & Cybersecurity",
     "enthusiast": ["Technology", "Cybersecurity", "Music"]
 }
 
 save_profile(my_profile)
 ```
+ <img src="http://www.hackthebox.eu/badge/image/1525469" alt="Hack The Box">
 ## 🔥 Languages:
 <div align="left">
     <img src="https://skillicons.dev/icons?i=python,bash,js,react,nodejs"/><br/>
