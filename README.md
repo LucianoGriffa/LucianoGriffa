@@ -17,7 +17,7 @@ my_profile = {
 
 save_profile(my_profile)
 ```
- <img src="http://www.hackthebox.eu/badge/image/1525469" alt="Hack The Box">
+<!-- <img src="http://www.hackthebox.eu/badge/image/1525469" alt="Hack The Box">*/-->
 ## 🔥 Languages:
 <div align="left">
     <img src="https://skillicons.dev/icons?i=python,bash,js,react,nodejs"/><br/>
