@@ -1,5 +1,5 @@
-# 👋 Hi! I'm Luciano Griffa.
-![](https://komarev.com/ghpvc/?username=lucianogriffa)
+# 👋 Hi! I'm Luciano Griffa Aka. G3kSec
+![](https://komarev.com/ghpvc/?username=G3kSec)
 ```python
 def save_profile(new_profile=None):
     profiles = []
@@ -11,6 +11,7 @@ def save_profile(new_profile=None):
 
 my_profile = {
     "name": "Luciano",
+    "aka": "G3kSec",
     "student": "📚 Software Engineer & Cybersecurity",
     "enthusiast": ["Technology", "Cybersecurity", "Music"]
 }
