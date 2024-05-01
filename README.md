@@ -1,5 +1,4 @@
 # 👋 Hi! I'm Luciano Griffa Aka. G3kSec
-![](https://komarev.com/ghpvc/?username=G3kSec)
 ```python
 def save_profile(new_profile=None):
     profiles = []
@@ -18,7 +17,6 @@ my_profile = {
 
 save_profile(my_profile)
 ```
-<!-- <img src="http://www.hackthebox.eu/badge/image/1525469" alt="Hack The Box">*/-->
 ## 🔥 Languages:
 <div align="left">
     <img src="https://skillicons.dev/icons?i=python,bash,js,react,nodejs"/><br/>
