@@ -11,7 +11,7 @@ def save_profile(new_profile=None):
 my_profile = {
     "name": "Luciano",
     "aka": "G3kSec",
-    "student": "📚 Software Engineer & Cybersecurity",
+    "student": "📚 Cybersecurity",
     "enthusiast": ["Technology", "Cybersecurity", "Music"]
 }
 
