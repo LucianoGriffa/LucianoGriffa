@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Luciano Griffa Aka. G3kSec
+# 👋 Hi! I'm Luciano Griffa
 ```python
 def save_profile(new_profile=None):
     profiles = []
@@ -10,7 +10,6 @@ def save_profile(new_profile=None):
 
 my_profile = {
     "name": "Luciano",
-    "aka": "G3kSec",
     "student": "📚 Cybersecurity",
     "enthusiast": ["Technology", "Cybersecurity", "Music"]
 }
