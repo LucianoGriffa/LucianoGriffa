@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Luciano Griffa
 ```python
-def save_profile(new_profile=None):
+def save_profile(new_profile):
     profiles = []
     if new_profile:
         profiles.append(new_profile)
