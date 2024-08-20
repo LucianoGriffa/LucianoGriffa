@@ -1,6 +1,6 @@
 ## Hi, I'm Luciano Griffa 👋
 ### About Me
-I'm committed to continuous learning, participating in CTFs and searching for vulnerabilities through HackerOne (hackerone.com/g3ksec). I'm currently pursuing a Bachelor's degree in Cybersecurity. I would like to join a Red Team within a company where I can contribute and collaborate with team members to improve cybersecurity measures.
+I'm committed to continuous learning, participating in CTFs and searching for vulnerabilities through HackerOne (https://hackerone.com/lucianogriffa). I'm currently pursuing a Bachelor's degree in Cybersecurity. I would like to join a Red Team within a company where I can contribute and collaborate with team members to improve cybersecurity measures.
 ### Programming Language
 [![ProgrammingLanguage](https://skillicons.dev/icons?i=py,bash,js)](https://skillicons.dev)
 ---
