@@ -1,4 +1,4 @@
-## Hi, I'm Luciano Griffa 👋
+## Hi, I'm Luciano Griffa 👋.
 ### About Me
 I'm committed to continuous learning, participating in CTFs and hunting for vulnerabilities through HackerOne (https://hackerone.com/g3ksec). I'm currently pursuing a Bachelor's degree in Information Security. I would like the possibility of joining a Cybersecurity team, where I can contribute and collaborate with team members to improve cybersecurity measures.
 ### Programming Language
